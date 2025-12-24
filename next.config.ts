@@ -2,7 +2,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   // Configuration untuk GitHub Pages static export
-  output: "export",
+  // output: "export",
   images: {
     unoptimized: true,
   },
